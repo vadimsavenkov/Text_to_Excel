@@ -1,0 +1,16 @@
+# WELL TRACE FROM PETREL 
+# WELL NAME:              	well1
+# WELL HEAD X-COORDINATE: 527563.13200000 (m)
+# WELL HEAD Y-COORDINATE: 3706595.19000000 (m)
+# WELL OFFSET (from MSL): 97.00000000 (ft)
+# WELL TYPE:              DRY, PLUGGED AND ABANDONED
+# AZIMUTH REFERENCE UNDEFINED
+# DX DY ARE UNDEFINED IN m-UNITS
+# DEPTH (Z, TVD) GIVEN IN ft-UNITS
+# ANGLES ARE NOT EXACT (TRACE WAS NOT IMPORTED USING ANGLES)
+# MD IS NOT EXACT (TRACE WAS NOT IMPORTED WITH MD-DATA)
+#======================================================================================================================================
+      MD              X              Y             Z           TVD           DX           DY          AZIM          INCL          DLS
+#======================================================================================================================================
+ 0.0000000000   527563.13200 3706595.1900 97.000000000 -0.000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+ 9912.0000000   527563.13200 3706595.1900 -9815.000000 9912.0000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
