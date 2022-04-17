@@ -1,0 +1,16 @@
+# WELL TRACE FROM PETREL 
+# WELL NAME:              well11
+# WELL HEAD X-COORDINATE: 508497.57800000 (m)
+# WELL HEAD Y-COORDINATE: 3708209.69500000 (m)
+# WELL OFFSET (from MSL): 77.00000000 (ft)
+# WELL TYPE:              MINOR OIL AND GAS, PLUGGED AND ABANDONED
+# AZIMUTH REFERENCE UNDEFINED
+# DX DY ARE UNDEFINED IN m-UNITS
+# DEPTH (Z, TVD) GIVEN IN ft-UNITS
+# ANGLES ARE NOT EXACT (TRACE WAS NOT IMPORTED USING ANGLES)
+# MD IS NOT EXACT (TRACE WAS NOT IMPORTED WITH MD-DATA)
+#======================================================================================================================================
+      MD              X              Y             Z           TVD           DX           DY          AZIM          INCL          DLS
+#======================================================================================================================================
+ -0.000000000   508497.57800 3708209.6950 77.000000000 -0.000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+ 9727.0000000   508497.57800 3708209.6950 -9650.000000 9727.0000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
